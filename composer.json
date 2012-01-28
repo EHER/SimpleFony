@@ -1,10 +1,5 @@
 {
     "repositories": {
-        "phpunit-all-in-one": {
-            "vcs": {
-                "url": "git://github.com/EHER/phpunit-all-in-one.git"
-            }
-        },
         "chegamos-lib": {
             "vcs": {
                 "url": "git://github.com/EHER/chegamos-lib.git"
@@ -21,7 +16,6 @@
         "sensio/framework-extra-bundle":    "2.0.0-dev",
         "sensio/distribution-bundle":       "2.0.0-dev",
         "jms/security-extra-bundle":        "1.0.x-dev",
-        "PHPUnit":                          "*",
         "chegamos":                         "*"
     }
 }
